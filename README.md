@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React News App
 
 ![image](https://github.com/user-attachments/assets/14bfe2fa-7143-4ea8-8368-aa67da07aaa9)
 ![image](https://github.com/user-attachments/assets/c3b980ec-3317-4e68-8e6a-4e59024211fc)
